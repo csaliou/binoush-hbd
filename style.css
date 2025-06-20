@@ -48,3 +48,8 @@ button:hover {
     width: 100px;
     height: 100px;
 }
+
+.bae {
+    color : red;
+    font-weight: 900;
+}
